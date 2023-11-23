@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ChaudharySamirZafar
 - 👀 I’m interested in artificial intelligence, web development, mobile development and dev ops
-- 🌱 I’m currently in my final year at University
+- 🌱 I’m currently a Junior software engineer
 - 💻 Check out my websites :
 - - Portfolio - https://www.samirzafar.com/
-- - Codenemy - https://www.codenemy.com/
 - - Explain My Code - https://explainmycode.co.uk/
 - 💞️ I’m looking to collaborate on absolutely anything, contact me and we can start developing.
 - 📫 How to reach me - linkedIn - https://www.linkedin.com/in/samir-zafar-6b59111bb/
